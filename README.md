@@ -26,6 +26,8 @@ As developed, code is posted to GitHub for your own use and
 modification. As installments get published, the ongoing index below
 will capture the scope and coverage of this ambitious series.
 
+Interactive notebook pages begin about **CWPK \#14**.
+
 ### Table of Installments
 
   - CWPK \#1: Cooking with Python and KBpedia
