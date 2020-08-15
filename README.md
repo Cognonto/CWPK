@@ -1,11 +1,7 @@
 # Cooking with Python and KBpedia
 
-<div style="float: left; width: 305px; margin-right: 10px;">
-
 ![](https://kbpedia.org/cwpk-files/cooking-with-kbpedia-305.png
 "Cooking with KBpedia")
-
-</div>
 
 The *Cooking with Python and KBpedia* series consists of nearly 75
 installments that discuss how to pick tools and then use
