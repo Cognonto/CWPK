@@ -1,7 +1,6 @@
 # Cooking with Python and KBpedia
 
-![](https://kbpedia.org/cwpk-files/cooking-with-kbpedia-305.png
-"Cooking with KBpedia")
+ <img align="left" src="https://kbpedia.org/cwpk-files/cooking-with-kbpedia-305.png" alt="Cooking with KBpedia" />
 
 The *Cooking with Python and KBpedia* series consists of nearly 75
 installments that discuss how to pick tools and then use
