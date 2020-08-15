@@ -1,0 +1,91 @@
+/*
+Custom CSS for CWPK Series
+Version: 0.2 Released 14 April 2020
+Author: Michael K. Bergman
+Author URI: http://mkbergman.com/
+*/
+
+body {
+margin: 0 40px;
+}
+
+pre, code {
+background-color: #f7f7f7;
+}
+
+.center-image {
+margin: 10px auto;
+display: table;	
+}	
+
+.center-caption {
+margin: 10px auto;
+display: table;
+font-style: italic;
+}
+
+.boxGreenDotted {
+background-color:#ebf8e2;
+border:1px dotted #71c837;
+vertical-align:middle;
+margin:15px 60px;
+padding:8px;
+}
+
+.boxOrangeDotted {
+background-color:#feeedc;
+border:1px dotted #f7941d;
+vertical-align:middle;
+margin:15px 80px;
+padding:8px;
+}
+
+.boxBlueDotted {
+background-color:#efefff;
+border:1px dotted #ceceff;
+vertical-align:middle;
+margin:15px 80px;
+padding:8px;
+}
+
+.boxYellowDotted {
+background-color:#ffc;
+border:1px dotted #ff0;
+vertical-align:middle;
+margin:15px 60px;
+padding:8px;
+}
+
+.boxGrayDotted {
+background-color:#eee;
+border:1px dotted #aaa;
+vertical-align:middle;
+margin:15px 60px;
+padding:8px;
+}
+
+.boxBrownDotted {
+background-color:#f5f5dc;
+border:1px dotted #a0522d;
+vertical-align:middle;
+margin:15px 80px;
+padding:8px;
+}
+
+.boxPinkDotted {
+background-color:#ffecec;
+border:1px dotted #f5aca6;
+vertical-align:middle;
+margin:15px 80px;
+padding:8px;
+}
+
+pre.sourceCode {
+  border: 1px solid #cfcfcf;
+  border-radius: 2px;
+  background: #f7f7f7;
+  padding: 8px 0 4px 6px;
+  font-size: 14px;
+  min-height: 20px;
+  line-height: 1.21429em;
+}
