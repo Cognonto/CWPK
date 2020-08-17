@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://kbpedia.org/kko/rc/"
+     xml:base="http://kbpedia.org/kko/rc/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ns="http://creativecommons.org/ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	 xmlns:kko="http://kbpedia.org/ontologies/kko#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:wikiCategory="http://wikipedia.org/wiki/Category:">
+    <owl:Ontology rdf:about="http://kbpedia.org/kbpedia/rc">
+        <owl:versionIRI rdf:resource="http://kbpedia.org/rc/v300"/>
+        <owl:imports rdf:resource="https://www.w3.org/2009/08/skos-reference/skos-owl1-dl.rdf"/>
+		<owl:imports rdf:resource="file://C:/1-PythonProjects/kbpedia/v300/build_ins/stubs/kko.owl"/>
+        <ns:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+        <dc:creator xml:lang="en">Frédérick Giasson</dc:creator>
+        <dc:creator xml:lang="en">Michael K. Bergman</dc:creator>
+        <dc:dateCopyrighted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-06-01T20:00:00Z</dc:dateCopyrighted>
+        <dc:publisher xml:lang="en">Cognonto Corporation, via its agent, Semantics Press LLC</dc:publisher>
+        <vann:preferredNamespacePrefix>kbpedia</vann:preferredNamespacePrefix>
+        <vann:preferredNamespaceUri>http://kbpedia.org/kko/rc/</vann:preferredNamespaceUri>
+        <owl:priorVersion xml:lang="en">Version 1.00 of the KBpedia Knowledge Ontology (KKO), released Aug 6, 2016, was the first commercial release of the system. It was a rather complete re-write and re-organization of the UMBEL (Upper Mapping and Binding Exchange Layer) ontology, significantly modified to accommodate its purpose for integrating knowledge bases (KBs).</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 1.10 of KKO and KBpedia, released Nov 15, 2016, focused on two major updates. First, certain aspects of the upper structure of KKO were streamlined. And, second, KBpedia’s core typologies, which capture the overwhelming majority of reference concepts that are classified as entity types, were further organized to create tighter taxonomic structures.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 1.20 of the KBpedia Knowledge Ontology (KKO) and KBpedia, released Dec 5, 2016, was a fairly significant re-write of the KKO upper structure. This update was driven by two factors: 1) a revisiting of some assignments due to the attention given actions and predicates (specifically, Actions, Events, Situations, Relations) as opposed to earlier efforts that focused on Entities and Classes (Generals); and 2) an attempt to both rely more directly on Peircean terminology where it made sense and to rely less directly on that terminology where it was obscure or dated.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 1.30 of KKO, released on Jan 27, 2017, was an internal release version only. This version tested procedures for reverse mapping of sub-graph structures within a source knowledge base (B) to those of the target KBpedia knowledge structure (A). Most conventional mappings are of the B --&gt; A form, where what is mapped from B requires a direct tie-in point in A. Reverse mapping, tentatively called reciprocal mapping, identifies and places new structure from B into A, resulting in the target now being (B+A).</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 1.40 of the KBpedia Knowledge Ontology (KKO) and KBpedia, released Feb 28, 2017, was the result of reciprocal mapping from Wikipedia to KBpedia. Reciprocal mapping adds sub-graph structure and new nodes to the target knowledge base. Nearly 40% more reference concepts were added to KBpedia in this v 1.40 release compared to prior versions of KBpedia.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 1.50 of KKO and KBpedia, released Sep 13, 2017, marked a major update. KKO properties were updated and organized according the three main property splits into Attributes, (external) Relations, and Representations (or Annotations) according to Peircean principles and the universal categories of Firstness, Secondness and Thirdness. Version 1.50 also used this structure to introduce a comprehensive mapping against Wikidata properties.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 1.60 of KKO and KBpedia, released Oct 1, 2018, marked the first open-source version of KBpedia. It greatly expanded mappings to Wikidata and Wikipedia and moved to address gaps in the definitions of resource concepts (RCs). However, because of time pressures, not all open-source updates were completed for this release.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 2.00 of KBpedia and KKO, released Jan 23, 2019, provided full mappings to Wikidata and Wikipedia, as well as complete definitions for all RCs (reference concepts). Duplicates were checked and many minor typology corrections were made. This version was the first, complete, open-source release of KBpedia.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 2.00 of KBpedia and KKO, released Jan 23, 2019, provided full mappings to Wikidata and Wikipedia, as well as complete definitions for all RCs (reference concepts). Duplicates were checked and many minor typology corrections were made. This version was the first, complete, open-source release of KBpedia. Because of these substantial changes, the version numbers were skipped forward.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 2.10, released Mar 27, 2019, resulted in instance mappings for Wikidata achieving 99% coverage. All 45 K mappings were manually checked, resulting in a further 1.25% correction of assignments. About half of existing mappings to Wikidata categories were converted to be represented by the topic entity. Wikipedia mappings have been similarly improved.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 2.21 of KKO and KBpedia was updated Dec 7, 2019, with minor placement improvements from the original v 2.20, released Nov 11, 2019. This version was devoted to clean up of the individual typologies in the system, the removal of long species lists and individuals, some re-organization of the results, and removal of UMBEL linkages due to the retirement of that system. Nearly 2000 reference concepts (RCs) were removed from KBpedia due to these changes.</owl:priorVersion>
+        <owl:priorVersion xml:lang="en">Version 2.50 of KKO and KBpedia, released Feb 10, 2020, was a major upgrade that resulted in version numbers skipping forward. The major change in this version was to completely integrate the UN Standard Products and Services Codes (UNSPSC) as the seventh core knowledge base included in the system, joining Wikidata, Wikipedia, OpenCyc, schema.org, GeoNames, and DBpedia. This addition brought ecommerce and marketing capabilities to KBpedia. The Products typology was split into three parts and better disjointedness tests were added to the system. 
+
+The addition of UNSPSC added a net of about 5000 reference concepts (RCs) to the system, including identification and removal of about 700 duplicate RCs from the merge. (Total RCs exceed 58 K.) Mappings to Wikidata and Wikipedia were also made for the UNSPSC structure, which contains all three levels of the four-level UNSPSC structure, as well as thousands of the &apos;commodity&apos; level items in it. 
+
+Property mappings to UNSPSC, Wikidata, Wikipedia, and GeoNames, while previously available in separate mapping files, were also added to the base KBpedia system. Note that these KBpedia mappings are still available as separate files.</owl:priorVersion>
+        <owl:versionInfo xml:lang="en">Version 3.0 is the first of KBpedia to be built with the cowpoke package.</owl:versionInfo>
+        <skos:altLabel xml:lang="en">KBpedia</skos:altLabel>
+        <skos:definition xml:lang="en">The KBpedia full structure is, one, a vocabulary of classes and predicates for describing domain ontologies, and, two, a logical knowledge graph for reasoning and extending for domain purposes, with the specific aim of promoting interoperability with external datasets and domains.</skos:definition>
+        <skos:prefLabel xml:lang="en">KBpedia - Full Structure</skos:prefLabel>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://creativecommons.org/ns#license -->
+
+    <owl:AnnotationProperty rdf:about="http://creativecommons.org/ns#license"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/dateCopyrighted -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/dateCopyrighted"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/publisher -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/publisher"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespacePrefix -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespacePrefix"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespaceUri -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

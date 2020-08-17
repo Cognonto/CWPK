@@ -1,0 +1,10 @@
+DEBUG:root:This is a debug message.
+INFO:root:This is an informational message.
+WARNING:root:Warning! Something does not look right.
+ERROR:root:You have encountered an error.
+CRITICAL:root:You have experienced a critical problem.
+DEBUG:root:This is a debug message.
+INFO:root:This is an informational message.
+WARNING:root:Warning! Something does not look right.
+ERROR:root:You have encountered an error.
+CRITICAL:root:You have experienced a critical problem.
