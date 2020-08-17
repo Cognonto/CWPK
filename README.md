@@ -51,8 +51,8 @@ Interactive notebook pages begin about **CWPK \#14**.
 
 #### Part 2: Beginning The Efforts
 
-  -  More to come . . . .
-  -  
+  - CWPK \#16: Planning the Project
+  -  More to come . . . .  
 
 #### Part 3: Basic Extraction and Module Routines
 
