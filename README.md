@@ -52,6 +52,7 @@ Interactive notebook pages begin about **CWPK \#14**.
 #### Part 2: Beginning The Efforts
 
   - CWPK \#16: Planning the Project
+  - CWPK \#17: Choosing and Installing an OWL API
   -  More to come . . . .  
 
 #### Part 3: Basic Extraction and Module Routines
