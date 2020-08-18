@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - owlready2
   - pip
   - pip:
     - nbgitpuller
