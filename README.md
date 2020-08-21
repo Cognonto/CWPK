@@ -55,6 +55,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#17: Choosing and Installing an OWL API
   - CWPK \#18: Basic Terminology and Load KBpedia
   - CWPK \#19: Exploring the API to OWL
+  - CWPK \#20: Basic Knowledge Graph Management – I
   -  More to come . . . .  
 
 #### Part 3: Basic Extraction and Module Routines
