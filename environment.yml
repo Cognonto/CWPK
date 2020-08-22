@@ -2,7 +2,6 @@ name: cwpk-environment
 channels:
   - conda-forge
 dependencies:
-  - beautifulsoup
   - bokeh
   - ftfy
   - holoviews
@@ -14,11 +13,12 @@ dependencies:
   - pip
   - pytest
   - python
-  - pyviz
   - rdflib
   - sparqlwrapper
   - pip:
+    - beautifulsoup
     - nbgitpuller
     - sphinx-gallery
     - pandas
+    - pyviz
     - matplotlib
