@@ -16,7 +16,7 @@ dependencies:
   - rdflib
   - sparqlwrapper
   - pip:
-    - beautifulsoup
+    - beautifulsoup4
     - nbgitpuller
     - sphinx-gallery
     - pandas
