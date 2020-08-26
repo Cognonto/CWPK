@@ -56,6 +56,9 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#18: Basic Terminology and Load KBpedia
   - CWPK \#19: Exploring the API to OWL
   - CWPK \#20: Basic Knowledge Graph Management – I
+  - CWPK \#21: Some Accumulated Tips
+  - CWPK \#22: Basic Knowledge Graph Management – II
+  - CWPK \#23: Text Searching KBpedia
   -  More to come . . . .  
 
 #### Part 3: Basic Extraction and Module Routines
