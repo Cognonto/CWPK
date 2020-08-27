@@ -59,6 +59,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#21: Some Accumulated Tips
   - CWPK \#22: Basic Knowledge Graph Management – II
   - CWPK \#23: Text Searching KBpedia
+  - CWPK \#24: Introduction to RDFLib
   -  More to come . . . .  
 
 #### Part 3: Basic Extraction and Module Routines
