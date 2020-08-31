@@ -60,6 +60,8 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#22: Basic Knowledge Graph Management – II
   - CWPK \#23: Text Searching KBpedia
   - CWPK \#24: Introduction to RDFLib
+  - CWPK \#25: Querying KBpedia with SPARQL
+  - CWPK \#26: Introduction to Knowledge Graph Reasoners
   -  More to come . . . .  
 
 #### Part 3: Basic Extraction and Module Routines
