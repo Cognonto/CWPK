@@ -61,13 +61,12 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#23: Text Searching KBpedia
   - CWPK \#24: Introduction to RDFLib
   - CWPK \#25: Querying KBpedia with SPARQL
-  - CWPK \#26: Introduction to Knowledge Graph Reasoners
-  -  More to come . . . .  
+  - CWPK \#26: Introduction to Knowledge Graph Reasoners 
 
 #### Part 3: Basic Extraction and Module Routines
 
-  -  
-  -  
+  -  CWPK \#27: A ‘Roundtrip’ Philosophy
+  -  More to come . . . . 
 
 #### Part 4: Building from Scratch
 
