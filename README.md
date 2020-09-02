@@ -65,8 +65,9 @@ Interactive notebook pages begin about **CWPK \#14**.
 
 #### Part 3: Basic Extraction and Module Routines
 
-  -  CWPK \#27: A ‘Roundtrip’ Philosophy
-  -  More to come . . . . 
+  - CWPK \#27: A ‘Roundtrip’ Philosophy
+  - CWPK \#28: Extracting Structure for Typologies
+  - More to come . . . . 
 
 #### Part 4: Building from Scratch
 
