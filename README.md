@@ -69,6 +69,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#28: Extracting Structure for Typologies
   - CWPK \#29: Extracting Object and Data Properties
   - CWPK \#30: Extracting Annotations
+  - CWPK \#31: Reading and Writing Files
   - More to come . . . . 
 
 #### Part 4: Building from Scratch
