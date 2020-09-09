@@ -70,6 +70,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#29: Extracting Object and Data Properties
   - CWPK \#30: Extracting Annotations
   - CWPK \#31: Reading and Writing Files
+  - CWPK \#32: Iterating Over a Full Extraction
   - More to come . . . . 
 
 #### Part 4: Building from Scratch
