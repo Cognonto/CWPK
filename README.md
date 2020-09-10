@@ -71,6 +71,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#30: Extracting Annotations
   - CWPK \#31: Reading and Writing Files
   - CWPK \#32: Iterating Over a Full Extraction
+  - CWPK \#33: A Python Package, Part I: The Annotation Extractor
   - More to come . . . . 
 
 #### Part 4: Building from Scratch
