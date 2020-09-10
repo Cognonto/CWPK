@@ -7,7 +7,6 @@ dependencies:
   - holoviews
   - ipywidgets
   - networkx
-  - numpy
   - owlready2
   - pandoc
   - panel
