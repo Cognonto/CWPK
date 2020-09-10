@@ -19,7 +19,6 @@ dependencies:
   - pip:
     - beautifulsoup4
     - cowpoke
-    - itertools
     - matplotlib
     - pandas
     - pyviz
