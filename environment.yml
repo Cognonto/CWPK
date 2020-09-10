@@ -3,8 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - bokeh
+  - collections
   - ftfy
   - holoviews
+  - ipywidgets
+  - itertools
+  - logging
   - networkx
   - numpy
   - owlready2
@@ -17,8 +21,7 @@ dependencies:
   - sparqlwrapper
   - pip:
     - beautifulsoup4
-    - nbgitpuller
-    - sphinx-gallery
+    - cowpoke
+    - matplotlib
     - pandas
     - pyviz
-    - matplotlib
