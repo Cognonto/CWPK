@@ -74,11 +74,11 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#33: A Python Package, Part I: The Annotation Extractor
   - CWPK \#34: A Python Module, Part II: Packaging and The Structure Extractor
   - CWPK \#35: A Python Module, Part III: Custom Extractions and Finish Packaging
-  - More to come . . . . 
+  - CWPK \#36: Bulk Modification Techniques 
 
 #### Part 4: Building from Scratch
 
-  -  
+  - More to come . . . . 
   -  
 
 #### Part 5: Mapping, Stats, and Other Tools
