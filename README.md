@@ -78,8 +78,9 @@ Interactive notebook pages begin about **CWPK \#14**.
 
 #### Part 4: Building from Scratch
 
+  - CWPK \#37: Organizing the Code Base
   - More to come . . . . 
-  -  
+    
 
 #### Part 5: Mapping, Stats, and Other Tools
 
