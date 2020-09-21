@@ -80,6 +80,7 @@ Interactive notebook pages begin about **CWPK \#14**.
 
   - CWPK \#37: Organizing the Code Base
   - CWPK \#38: Stubs and Starting Files
+  - CWPK \#39: I/O and Structural Ingest
   - More to come . . . . 
     
 
