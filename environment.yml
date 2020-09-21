@@ -2,14 +2,10 @@ name: cwpk-environment
 channels:
   - conda-forge
 dependencies:
-  - bokeh
   - ftfy
-  - holoviews
-  - ipywidgets
   - networkx
   - owlready2
   - pandoc
-  - panel
   - pip
   - pytest
   - python
@@ -20,4 +16,3 @@ dependencies:
     - cowpoke
     - matplotlib
     - pandas
-    - pyviz
