@@ -82,6 +82,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#38: Stubs and Starting Files
   - CWPK \#39: I/O and Structural Ingest
   - CWPK \#40: Looping and Multiple Structure File Ingest
+  - CWPK \#41: Optimizations and Property Structure Ingest
   - More to come . . . . 
     
 
