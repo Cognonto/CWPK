@@ -85,6 +85,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#41: Optimizations and Property Structure Ingest
   - CWPK \#42: Other Structural Considerations
   - CWPK \#43: Logic Testing of the Knowledge Graph Structure
+  - CWPK \#44: Annotation Ingest
   - More to come . . . . 
     
 
