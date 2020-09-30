@@ -86,6 +86,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#42: Other Structural Considerations
   - CWPK \#43: Logic Testing of the Knowledge Graph Structure
   - CWPK \#44: Annotation Ingest
+  - CWPK \#45: Cleaning and File Pre-checks
   - More to come . . . . 
     
 
