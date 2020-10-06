@@ -89,12 +89,12 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#45: Cleaning and File Pre-checks
   - CWPK \#46: Creating the cowpoke Package and Unit Tests
   - CWPK \#47: Summary of the Extract-Build Roundtrip
-  - More to come . . . . 
+  - CWPK \#48: Case Study: A Sweeping Refactoring
     
 
 #### Part 5: Mapping, Stats, and Other Tools
 
-  -  
+  - More to come . . . . 
   -  
 
 #### Part 6: Applications and Machine Learning
