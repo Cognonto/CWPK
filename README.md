@@ -33,7 +33,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#1: Cooking with Python and KBpedia
   - CWPK \#2: What to Expect
 
-#### Part 1: The Baseline System
+#### Part I: The Baseline System
 
   - CWPK \#3: Clojure v R v Python
   - CWPK \#4: The Baseline Architecture
@@ -49,7 +49,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#14: Markdown and Anatomy of a Notebook File
   - CWPK \#15: Using Notebooks for CWPK Documentation
 
-#### Part 2: Beginning The Efforts
+#### Part II: Beginning The Efforts
 
   - CWPK \#16: Planning the Project
   - CWPK \#17: Choosing and Installing an OWL API
@@ -63,7 +63,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#25: Querying KBpedia with SPARQL
   - CWPK \#26: Introduction to Knowledge Graph Reasoners 
 
-#### Part 3: Basic Extraction and Module Routines
+#### Part III: Basic Extraction and Module Routines
 
   - CWPK \#27: A ‘Roundtrip’ Philosophy
   - CWPK \#28: Extracting Structure for Typologies
@@ -76,7 +76,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#35: A Python Module, Part III: Custom Extractions and Finish Packaging
   - CWPK \#36: Bulk Modification Techniques 
 
-#### Part 4: Building from Scratch
+#### Part IV: Building from Scratch
 
   - CWPK \#37: Organizing the Code Base
   - CWPK \#38: Stubs and Starting Files
@@ -92,17 +92,18 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#48: Case Study: A Sweeping Refactoring
     
 
-#### Part 5: Mapping, Stats, and Other Tools
+#### Part V: Mapping, Stats, and Other Tools
 
+  - CWPK \#49: Mapping External Sources 
   - More to come . . . . 
   -  
 
-#### Part 6: Applications and Machine Learning
+#### Part VI: Applications and Machine Learning
 
   -  
   -  
 
-#### Part 7: Wrap-up
+#### Part VII: Wrap-up
 
   -  
   -
