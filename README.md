@@ -94,7 +94,8 @@ Interactive notebook pages begin about **CWPK \#14**.
 
 #### Part V: Mapping, Stats, and Other Tools
 
-  - CWPK \#49: Mapping External Sources 
+  - CWPK \#49: Mapping External Sources
+  - CWPK \#50: Querying External Sources
   - More to come . . . . 
   -  
 
