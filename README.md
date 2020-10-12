@@ -96,6 +96,7 @@ Interactive notebook pages begin about **CWPK \#14**.
 
   - CWPK \#49: Mapping External Sources
   - CWPK \#50: Querying External Sources
+  - CWPK \#51: Distributed Interactions via Web Widgets - I
   - More to come . . . . 
   -  
 
