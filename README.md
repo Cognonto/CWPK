@@ -98,6 +98,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#50: Querying External Sources
   - CWPK \#51: Distributed Interactions via Web Widgets - I
   - CWPK \#52: Distributed Interactions via Web Widgets - II
+  - CWPK \#53: Intro to Other Tools
   - More to come . . . . 
   -  
 
