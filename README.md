@@ -102,6 +102,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#54: Statistics and Logging
   - CWPK \#55: Charting
   - CWPK \#56: Graph Visualization and Extraction
+  - CWPK \#57: Publishing Interactive Notebooks
   - More to come . . . . 
   -  
 
