@@ -104,6 +104,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#56: Graph Visualization and Extraction
   - CWPK \#57: Publishing Interactive Notebooks
   - CWPK \#58: Setting Up a Remote Instance and Web Page Server
+  - CWPK \#59: Adding a SPARQL Endpoint - Part I
   - More to come . . . . 
   -  
 
