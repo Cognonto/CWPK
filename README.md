@@ -89,8 +89,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#45: Cleaning and File Pre-checks
   - CWPK \#46: Creating the cowpoke Package and Unit Tests
   - CWPK \#47: Summary of the Extract-Build Roundtrip
-  - CWPK \#48: Case Study: A Sweeping Refactoring
-    
+  - CWPK \#48: Case Study: A Sweeping Refactoring    
 
 #### Part V: Mapping, Stats, and Other Tools
 
@@ -105,12 +104,11 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#57: Publishing Interactive Notebooks
   - CWPK \#58: Setting Up a Remote Instance and Web Page Server
   - CWPK \#59: Adding a SPARQL Endpoint - Part I
-  - More to come . . . . 
-  -  
+  - CWPK \#60: Adding a SPARQL Endpoint - Part II  -  
 
 #### Part VI: Applications and Machine Learning
 
-  -  
+  -  More to come . . . . 
   -  
 
 #### Part VII: Wrap-up
