@@ -108,7 +108,8 @@ Interactive notebook pages begin about **CWPK \#14**.
 
 #### Part VI: Applications and Machine Learning
 
-  - CWPK \#61: NLP, Machine Learning and Analysis 
+  - CWPK \#61: NLP, Machine Learning and Analysis
+  - CWPK \#62: Network and Graph Analysis
   - More to come . . . .   
 
 #### Part VII: Wrap-up
