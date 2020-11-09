@@ -110,6 +110,7 @@ Interactive notebook pages begin about **CWPK \#14**.
 
   - CWPK \#61: NLP, Machine Learning and Analysis
   - CWPK \#62: Network and Graph Analysis
+  - CWPK \#63: Staging Data Sci Resources and Preprocessing
   - More to come . . . .   
 
 #### Part VII: Wrap-up
