@@ -13,6 +13,7 @@ dependencies:
   - pytest
   - python
   - rdflib
+  - scikit-learn
   - spacy
   - sparqlwrapper
   - pip:
