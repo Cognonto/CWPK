@@ -4,6 +4,7 @@ channels:
 dependencies:
   - bokeh
   - ftfy
+  - gensim
   - holoviews
   - networkx
   - owlready2
@@ -12,6 +13,7 @@ dependencies:
   - pytest
   - python
   - rdflib
+  - spacy
   - sparqlwrapper
   - pip:
     - beautifulsoup4
