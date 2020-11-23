@@ -112,6 +112,7 @@ Interactive notebook pages begin about **CWPK \#14**.
   - CWPK \#62: Network and Graph Analysis
   - CWPK \#63: Staging Data Sci Resources and Preprocessing
   - CWPK \#64: Embeddings, Summarization and Entity Recognition
+  - CWPK \#65: scikit-learn Basics and Initial Encoding
   - More to come . . . .   
 
 #### Part VII: Wrap-up
